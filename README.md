@@ -28,8 +28,8 @@ Atualmente, estou em busca de uma oportunidade como **Desenvolvedor Full-stack**
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviAlmeid&show_icons=true&theme=dark" alt="Levi's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAlmeid&layout=compact&theme=dark" alt="Levi's most used languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi-Almeida&show_icons=true&theme=dark" alt="Levi's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Almeida&layout=compact&theme=dark" alt="Levi's most used languages" />
 </div>
 
 ---
@@ -46,6 +46,6 @@ Atualmente, estou em busca de uma oportunidade como **Desenvolvedor Full-stack**
 
 <div align="center">
   
-  ![Snake animation](https://github.com/LeviAlmeid/LeviAlmeid/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Levi-Almeida/Levi-Almeida/blob/output/github-contribution-grid-snake.svg)
   
 </div>
