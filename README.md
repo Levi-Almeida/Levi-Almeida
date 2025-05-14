@@ -1,9 +1,7 @@
 # Levi Santana de Almeida
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-santana-de-almeida-649ba5158)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:levinhosa@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/levi_almeida22)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:levi02almeida@gmail.com)
 ## 💼 Sobre Mim
 
 Desenvolvedor Full-Stack apaixonado por criar soluções tecnológicas eficientes e inovadoras. Atualmente cursando Análise e Desenvolvimento de Sistemas, possuo experiência profissional com **AngularJs**, **.NET Core**, **ASP.NET** e **SQL**. 
