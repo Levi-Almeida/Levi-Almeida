@@ -27,16 +27,19 @@ Estou em constante evolução, buscando aprimorar meus conhecimentos em tecnolog
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Levi-Almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Levi" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Almeida&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por Levi" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Almeida&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas por Levi" />
 </div>
 
 ## 🌱 Atualmente Estudando
