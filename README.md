@@ -39,7 +39,7 @@ Estou em constante evolução, buscando aprimorar meus conhecimentos em tecnolog
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Levi-Almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Levi" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Almeida&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas por Levi" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Almeida&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Levi" />
 </div>
 
 ## 🌱 Atualmente Estudando
