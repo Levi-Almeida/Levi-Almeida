@@ -1,51 +1,59 @@
-### Olá, seja bem-vindo ao meu GitHub 👋
+# Levi Santana de Almeida
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-santana-de-almeida-649ba5158)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:levinhosa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/levi_almeida22)
 
-Sou desenvolvedor full-stack, estudante de Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia. Já trabalhei profissionalmente com tecnologias como **AngularJs**, **.Net Core**, **ASP.Net** e **SQL**.
+## 💼 Sobre Mim
 
-Atualmente, estou em busca de uma oportunidade como **Desenvolvedor Full-stack**.
+Desenvolvedor Full-Stack apaixonado por criar soluções tecnológicas eficientes e inovadoras. Atualmente cursando Análise e Desenvolvimento de Sistemas, possuo experiência profissional com **AngularJs**, **.NET Core**, **ASP.NET** e **SQL**. 
 
-- 🌱 Tenho estudado **React**, **TypeScript**, **NodeJs** e **Styled-Components**.
-- 🤔 Posso colaborar com conhecimentos sobre **programação** e **tecnologia**.
+Estou em constante evolução, buscando aprimorar meus conhecimentos em tecnologias modernas como **React**, **TypeScript**, **Node.js** e **Styled-Components**.
 
----
+📌 **Objetivo:** Em busca de novas oportunidades como Desenvolvedor Full-Stack.
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Habilidades Técnicas
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <code><img title="ReactJs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img title="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-  <code><img title="NodeJs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
-  <code><img title="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <code><img title="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-  <code><img title="CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <code><img title="PHP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi-Almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Levi" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Almeida&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por Levi" />
 </div>
 
----
+## 🌱 Atualmente Estudando
 
-### 📊 GitHub Stats
+- Aprofundamento em React e seu ecossistema
+- TypeScript avançado
+- Node.js e desenvolvimento back-end em JavaScript
+- UI/UX com Styled-Components
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi-Almeida&show_icons=true&theme=dark" alt="Levi's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Almeida&layout=compact&theme=dark" alt="Levi's most used languages" />
-</div>
+## 💬 Vamos Colaborar?
 
----
-
-### 📫 Entre em contato
-
-<div align="center">
-  <a href="https://instagram.com/levi_almeida22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:levinhosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/levi-santana-de-almeida-649ba5158" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+- 👨‍💻 Posso contribuir com conhecimentos em desenvolvimento front-end e back-end
+- 🤝 Aberto para colaborações em projetos open-source
+- 📚 Interessado em compartilhar conhecimentos sobre programação e tecnologia
 
 ---
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/Levi-Almeida/Levi-Almeida/blob/output/github-contribution-grid-snake.svg)
-  
+  <i>⭐ "Código é como humor. Quando você tem que explicar, é ruim." – Cory House</i>
 </div>
